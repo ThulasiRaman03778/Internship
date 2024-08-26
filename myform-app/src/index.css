@@ -1,0 +1,12 @@
+body {
+  background-color: #f4f4f4;
+  font-family: "Playfair Display", serif;
+  font-weight: 500;    
+  font-style: normal;
+  background-image: url('./assets/image/bg-image1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed; 
+  }
+
