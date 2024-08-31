@@ -23,7 +23,7 @@ This project features a React-based login page integrated with Firebase for auth
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/ThulasiRaman03778/SkillUpgrade-Internship.git
     ```
 
 2. **Navigate to the project directory:**
@@ -79,4 +79,4 @@ Contributions are welcome! To contribute to this project:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
